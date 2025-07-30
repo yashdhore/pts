@@ -2,7 +2,7 @@ streamlit
 pandas
 joblib
 xgboost
-azure-cosmos==4.9.0
+azure-cosmos==4.8.0
 scikit-learn
 plotly
 Image
